@@ -14,7 +14,10 @@ Creating a Check list
 # To do list
 - [x] <del> Create a To do list </del>
 - [ ] Add more items from the paper
-
+- [ ] Goal of the game
+- [ ] How to earn rewards
+- [ ] Weapon rarity explained
+- [ ] Controls explained for console and Pc
 
 ---
 
