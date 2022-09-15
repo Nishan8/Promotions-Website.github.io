@@ -27,6 +27,6 @@ Creating a Check list
 - [ ] how to get skins 
 - [ ] voice chat and how to communicate in-game
 ---
-- [ ] 
+
 
 
