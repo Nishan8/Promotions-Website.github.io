@@ -23,7 +23,9 @@ Creating a Check list
 - [ ] Creative mode and other gamemodes 
 - [ ] How to level up 
 - [ ] In game currency and how to get
-
+- [ ] In game live events and concerts
+- [ ] how to get skins 
+- [ ]  
 ------
 
 
