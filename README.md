@@ -25,10 +25,8 @@ Creating a Check list
 - [ ] In game currency and how to get
 - [ ] In game live events and concerts
 - [ ] how to get skins 
-- [ ]  
-------
-
-
+- [ ] voice chat and how to communicate in-game
 ---
+- [ ] 
 
 
