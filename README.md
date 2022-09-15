@@ -17,7 +17,15 @@ Creating a Check list
 - [ ] Goal of the game
 - [ ] How to earn rewards
 - [ ] Weapon rarity explained
-- [ ] Controls explained for console and Pc
+- [ ] Controls explained for Console and Pc
+- [ ] Seasonal rewards and battle pass explained
+- [ ] Build and no build mode 
+- [ ] Creative mode and other gamemodes 
+- [ ] How to level up 
+- [ ] In game currency and how to get
+
+------
+
 
 ---
 
